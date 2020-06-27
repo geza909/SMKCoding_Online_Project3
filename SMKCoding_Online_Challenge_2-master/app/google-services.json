@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265039266245",
+    "firebase_url": "https://auth-email-3b1af.firebaseio.com",
+    "project_id": "auth-email-3b1af",
+    "storage_bucket": "auth-email-3b1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265039266245:android:f67f3afc394f7cb043cbac",
+        "android_client_info": {
+          "package_name": "com.example.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265039266245-96qdbrfrvqsbufkgr7st6dgeufsfeu3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dh9KUZKkbz36m2HHkuQC1tlpine1yBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265039266245-96qdbrfrvqsbufkgr7st6dgeufsfeu3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
