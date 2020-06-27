@@ -1,5 +1,5 @@
 ## SMKCoding_Online_Challenge_3 
-#(Push ke github pending dikarenakan tidak ada koneksi internet dirumah)
+(Push ke github pending dikarenakan tidak ada koneksi internet dirumah)
 
 SMKCoding Challenge 3 Menggunakan Firebase Authenthication dan Firebase Database CRUD
 
